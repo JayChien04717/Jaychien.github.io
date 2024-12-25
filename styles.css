@@ -1,123 +1,81 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f9;
-<<<<<<< HEAD
-}
-header {
-    background-color: #0044cc;
-=======
-    background-image: linear-gradient(to bottom, #f8f9fa, #e9ecef);
-    color: #333;
-    text-align: left;
-}
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f9;
+        background-image: linear-gradient(to bottom, #f8f9fa, #e9ecef);
+        color: #333;
+        text-align: left;
+    }
 
 
-.homepage-image {
-    display: block;
-    margin: 20px left;
-    max-width: 70%;
-    max-height: 500px;
-    height: auto;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
+    .homepage-image {
+        display: block;
+        margin: 20px left;
+        max-width: 70%;
+        max-height: 500px;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
 
-header {
-    background-color: #8cbeb2;
->>>>>>> master
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-<<<<<<< HEAD
-nav {
-    display: flex;
-    justify-content: center;
-    background-color: #003399;
-    padding: 10px;
-}
-nav a {
-    color: white;
-    text-decoration: none;
-    margin: 0 15px;
-}
-nav a:hover {
-    text-decoration: underline;
-}
-.container {
-    padding: 20px;
-    text-align: center;
-}
-=======
+    header {
+        background-color: #8cbeb2;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
 
-nav {
-    display: flex;
-    justify-content: flex-start;
-    background-color: #b9d7d9;
-    padding: 10px 20px;
-}
+    nav {
+        display: flex;
+        justify-content: flex-start;
+        background-color: #b9d7d9;
+        padding: 10px 20px;
+    }
 
-nav a {
-    color: #333;
-    text-decoration: none;
-    margin: 0 15px;
-    font-weight: bold;
-}
+    nav a {
+        color: #333;
+        text-decoration: none;
+        margin: 0 15px;
+        font-weight: bold;
+    }
 
-nav a:hover {
-    text-decoration: underline;
-    color: #8cbeb2;
-}
+    nav a:hover {
+        text-decoration: underline;
+        color: #8cbeb2;
+    }
 
-.container {
-    padding: 20px;
-    text-align: left;
-    margin: 20px;
-    background-color: #ffffff;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-}
+    .container {
+        padding: 20px;
+        text-align: left;
+        margin: 20px;
+        background-color: #ffffff;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+    }
 
->>>>>>> master
-.product {
-    display: inline-block;
-    background: white;
-    margin: 15px;
-    padding: 20px;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    width: 250px;
-<<<<<<< HEAD
-}
-=======
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-}
+    .product {
+        display: inline-block;
+        background: white;
+        margin: 15px;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        width: 250px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
 
->>>>>>> master
-.product img {
-    max-width: 100%;
-    border-radius: 5px;
-}
-<<<<<<< HEAD
-footer {
-    background-color: #0044cc;
-    color: white;
-    text-align: center;
-=======
+    .product img {
+        max-width: 100%;
+        border-radius: 5px;
+    }
 
-footer {
-    background-color: #8cbeb2;
-    color: white;
-    text-align: left;
->>>>>>> master
-    padding: 10px;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> master
+    footer {
+        background-color: #8cbeb2;
+        color: white;
+        text-align: left;
+        padding: 10px;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
